@@ -1,5 +1,3 @@
-server:
-  port: 8081
 # application.yml
 spring:
   datasource:
