@@ -14,6 +14,10 @@
     <name>zaer</name>
     <description>zaer</description>
 
+    <modules>
+        <module>basejava</module>
+        <module>redisjava</module>
+    </modules>
 
     <properties>
         <java.version>17</java.version>
